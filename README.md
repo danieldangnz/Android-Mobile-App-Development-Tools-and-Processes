@@ -40,12 +40,12 @@ Step 8: Upload the app onto Google App Store
 
 ----------------------------------------------------------------------------
 3-Mobile Android App Eco-system
-(1) Android OS
-(2) How to develop Android Apps
-(3) Android Developer Tools: Android Studio IDE
-(4) Conversion process from source codes to Android Apps
-(5) Android Application Packages & Components
-(6) Google Play App Store
++ Android OS
++ How to develop Android Apps
++ Android Developer Tools: Android Studio IDE
++ Conversion process from source codes to Android Apps
++ Android Application Packages & Components
++ Google Play App Store
 
 ----------------------------------------------------------------------------
 4- Android Mobile App Development: Java & OOP

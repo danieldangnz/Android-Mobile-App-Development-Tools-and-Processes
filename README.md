@@ -44,16 +44,16 @@ Step 8: Upload the app onto Google App Store
 
 ----------------------------------------------------------------------------
 5-Testing Android Studio Apps on a Physical Android Devices
-Step 1: Setup and configure the Real Devices (Smartphone or Tablet)
-Step 2: Setup the computer side: Android Studio: ADB configuration
-Step 3: Setup the computer: Install the Intel USB driver
-Step 4: Open the ADB
++ Step 1: Setup and configure the Real Devices (Smartphone or Tablet)
++ Step 2: Setup the computer side: Android Studio: ADB configuration
++ Step 3: Setup the computer: Install the Intel USB driver
++ Step 4: Open the ADB
 
 ----------------------------------------------------------------------------
 6-Publish app on Google App
-A. Convert your Android project into APK file
-B. Publish Your Android App on Google Play Store
-C. Update app with Google Play and force download
++ A. Convert your Android project into APK file
++ B. Publish Your Android App on Google Play Store
++ C. Update app with Google Play and force download
 
 ----------------------------------------------------------------------------
 
